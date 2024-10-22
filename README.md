@@ -32,12 +32,12 @@ cd Hand-Cricket-Game
 
 3. **Compile the Java Files:**
 ``` bash
-javac HandCricket.java
+javac main.java
 ```
 
 4. **Run the Game:**
 ```bash
-java HandCricket
+java main
 ```
 
 ## **How to Play**
